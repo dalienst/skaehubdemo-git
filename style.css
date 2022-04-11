@@ -2,9 +2,14 @@ body {
     background-color: red;
 }
 
+*{
+   
+    border-radius: initial;
+}
+
 h1 {
     text-align: center;
-    color: blueviolet;
     font-size: 30px;
     margin: auto;
+
 }
